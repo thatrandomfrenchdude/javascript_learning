@@ -5,7 +5,7 @@ let guess = prompt("How old am I?", "");
 
 if (guess < 23) {
 	message = "Too young!";
-} else if (age > 23) {
+} else if (guess > 23) {
 	message = "Too old!";
 } else {
 	message = "You got it!";
