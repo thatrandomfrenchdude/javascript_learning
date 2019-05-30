@@ -1,4 +1,5 @@
 // Task on page 127 of 1264
+"use strict";
 
 //Variant 1
 let age = prompt("Enter your age:", "");

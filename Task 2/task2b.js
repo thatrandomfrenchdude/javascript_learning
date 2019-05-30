@@ -1,4 +1,5 @@
 // Task on page 113 of 1264
+"use strict";
 
 let message;
 let val = prompt("Enter a number!", "");

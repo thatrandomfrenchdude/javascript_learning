@@ -1,4 +1,5 @@
 //Task on page 112 of 1264
+"use strict";
 
 let message;
 let guess = prompt("How old am I?", "");
