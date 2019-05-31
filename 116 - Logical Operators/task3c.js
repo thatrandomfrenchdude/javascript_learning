@@ -1,4 +1,4 @@
-// Task on page 128 of 1264
+// Task on page 130 of 1272
 "use strict";
 
 let login = prompt("Please enter your login:", "");

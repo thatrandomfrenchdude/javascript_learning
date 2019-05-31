@@ -1,4 +1,4 @@
-// Task on page 126 of 1264
+// Task on page 128 of 1272
 "use strict";
 
 let age = prompt("Enter your age:", "");
