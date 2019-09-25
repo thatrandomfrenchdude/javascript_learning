@@ -1,1 +1,11 @@
-//this file will contain the css
+body {
+    background: #000;
+}
+#container {
+    max-width: 1400px;
+    margin: auto;
+}
+#my-canvas {
+    background: #000;
+    border: 1px solid #FFF;
+}
