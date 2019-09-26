@@ -7,6 +7,7 @@ let canvasWidth = 1400;
 let canvasHeight = 1000;
 let ship;
 let keys = [];
+let bullets = [];
 
 document.addEventListener('DOMContentLoaded', SetupCanvas)
 
